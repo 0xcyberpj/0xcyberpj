@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi , I'm Paul Jeremiah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+	<h4>A passionate  CTF Player</h4>
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;CTF+Player;CYBERSEC%20|%20%20Enthusiast;@ctftime%20;Always%20learning%20new%20things;%20Get_me_as:cyberpj;%20N00B%20Chall_Creater&center=true&width=500&height=50;color:red;font-style:bold"></a>
 </p>
 <hr/>
@@ -31,6 +32,13 @@
 
 </details>
 
+<h2> About:</h2>
+<b><p style="color:red">
+<p>Learning : PYTHON ⚡|Doing CTF < > Playing CTF</p>
+<p>Languages :  Python,c </p>
+<p>Hobbies :  Music 🎧, Movies</p>
+<p>Fact : Be like a stupid..!</p></b>
+</p>
 
 
 
