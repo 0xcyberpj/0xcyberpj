@@ -43,25 +43,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>Let's Connect> </h2>
 <p align="center">
   <a href="https://0xcyberpj.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -72,4 +53,7 @@
 </p>
 
 <hr/>
+
+<h3>Lets Play Piro Game</h3>
+<img align='center' src='https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif' width='500'>
 
