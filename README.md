@@ -35,13 +35,19 @@
 <h2> About:</h2>
 <b><p style="color:red">
 <p>Learning : PYTHON ⚡|Doing CTF < > Playing CTF</p>
-<p>Languages :  Python,c </p>
+	<p>Languages :  <b>Python,c</b> </p>
 <p>Hobbies :  Music 🎧, Movies</p>
 <p>Fact : Be like a stupid..!</p></b>
+<hr>
+<b><p> Blogs :</b><br><br>
+	<a href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp <a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp <a href="https://0xcyberpj.me/my-blog/"><img src="https://0xcyberpj.me/my-blog/assets/images/site_data/avatar.png.jpg" height=25></a> &nbsp</p>
+<hr>
 </p>
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xcyberpj)
+
+[![Repos Badge](https://badges.pufler.dev/repos/0xcyberpj)](https://badges.pufler.dev)
+
 
 
 <h2>Let's Connect> </h2>
@@ -51,9 +57,7 @@
 	<a href="https://linkedin.com/in/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/Cyberpj1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Youtube"/></a>
 </p>
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/cyberpj1"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=cyberpj1&amp;layout=wide" alt="github-readme-twitter"></a></p
 
 <hr/>
-
-<h3>Lets Play Piro Game</h3>
-<img align='center' src='https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif' width='500'>
-
