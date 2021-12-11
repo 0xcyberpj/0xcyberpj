@@ -48,7 +48,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/0xcyberpj)](https://badges.pufler.dev)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2F0xcyberpj.me%2Fmy-blog)
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2F0xcyberpj.me%2Fmy-blog" alt="Hits">
 
 <h2>Let's Connect> </h2>
 <p align="center">
