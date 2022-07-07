@@ -53,7 +53,7 @@
   <a href="https://0xcyberpj.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/Cyberpj1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/Cyberpj1"><img src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter"/></a>
 </p>
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/cyberpj1"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=cyberpj1&amp;layout=wide" alt="github-readme-twitter"></a></p
