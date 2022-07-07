@@ -40,7 +40,7 @@
 <p>Fact : Be like a stupid..!</p></b>
 <hr>
 <b><p> Blogs :</b><br><br>
-	<a href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp <a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp <a href="https://0xcyberpj.me/my-blog/"><img src="https://0xcyberpj.me/my-blog/assets/images/site_data/avatar.png.jpg" height=25></a> &nbsp</p>
+	<a href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp <a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp <a href="https://0xcyberpj.github.io/my-blog/"><img src="https://0xcyberpj.me/my-blog/assets/images/site_data/avatar.png.jpg" height=25></a> &nbsp</p>
 <hr>
 </p>
 
@@ -53,7 +53,7 @@
   <a href="https://0xcyberpj.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/Cyberpj1"><img src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/Cyberpj1"><img src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter" width="30"/></a>
 </p>
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/cyberpj1"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=cyberpj1&amp;layout=wide" alt="github-readme-twitter"></a></p
