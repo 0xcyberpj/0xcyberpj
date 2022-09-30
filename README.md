@@ -35,18 +35,14 @@
 <h2> About:</h2>
 <b><p style="color:red">
 <p>Learning : PYTHON ⚡|Doing CTF < > Playing CTF</p>
-	<p>Languages :  <b>Python,c</b> </p>
+	<p>Languages :  <b>Python,c , HTMLxCSS , JS ,NODE</b> </p>
 <p>Hobbies :  Music 🎧, Movies</p>
-<p>Fact : Be like a stupid..!</p></b>
 <hr>
 <b><p> Blogs :</b><br><br>
 	<a href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp <a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp <a href="https://0xcyberpj.github.io/my-blog/"><img src="https://0xcyberpj.me/my-blog/assets/images/site_data/avatar.png.jpg" height=25></a> &nbsp</p>
 <hr>
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xcyberpj)
-
-[![Repos Badge](https://badges.pufler.dev/repos/0xcyberpj)](https://badges.pufler.dev)
 
 <h2>Let's Connect> </h2>
 <p align="center">
