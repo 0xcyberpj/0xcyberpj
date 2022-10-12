@@ -9,7 +9,6 @@
 
 
 ## 📊 Github Stats
-  <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
@@ -19,7 +18,7 @@
   </p>
 
 
-<details>
+
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
@@ -28,11 +27,12 @@
 | ------------- | ------------- |
 
 	
-</details>
+
 
 <h2> About:</h2>
 <b><p style="color:red">
-<p>Learning : PYTHON ⚡|Doing CTF < > Playing CTF</p>
+<p>Learning : PYTHON |  Doing CTF x Playing CTF |
+</p>
 	<b><h3> Blogs  </h3> </b>
 	<a href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp <a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp 
 	&nbsp</p>
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+### ⚡ Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
