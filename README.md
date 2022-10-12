@@ -9,7 +9,6 @@
 
 
 ## 📊 Github Stats
-
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -19,12 +18,16 @@
   <br/>
   </p>
 
+
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/0xcyberpj"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=pj's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
+	
+| <a href="https://github.com/0xcyberpj/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+	
 </details>
 
 <h2> About:</h2>
@@ -73,24 +76,14 @@
 <p align="left">
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a> 
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  <a href="#">
-  	<img alt="Figma" src="https://img.shields.io/badge/Figma-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### ⚡ Software & Tools
+ 
+ ### ⚡ Software  Tools and Degigning
 <p>
   &emsp;    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-<br>
-
 
 <h2>Let's Connect> </h2>
 <p align="center">
