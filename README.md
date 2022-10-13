@@ -5,28 +5,13 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;CTF+Player;CYBERSEC%20|%20%20Enthusiast;@ctftime%20;Always%20learning%20new%20things;%20Get_me_as:cyberpj;%20N00B%20Chall_Creater&center=true&width=500&height=50;color:red;font-style:bold"></a>
 </p>
-<hr/>
-
 
 ## 📊 Github Stats
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	
-  <br/>
+  
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a>
   </p>
-
-
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-
-	
-| <a href="https://github.com/0xcyberpj/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-	
 
 
 <h2> About:</h2>
@@ -63,7 +48,7 @@
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://ww<<<<<<<<<<w.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
 
@@ -86,7 +71,7 @@
 </p>
 
 <h2>Let's Connect> </h2>
-<p align="center">
+<p align="left">
   <a href="https://0xcyberpj.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -96,13 +81,13 @@
 
 
 ## Projects
-<a href='https://github.com/0xcyberpj/tweet-machine'> <img alt="Tweet-Machine" src="https://img.shields.io/badge/-Tweet%20Machine-FE7A16?logo=tweet-machine&logoColor=white"></a>
 
+<p align=center>
+<a href='https://github.com/0xcyberpj/tweet-machine'> <img src='https://user-images.githubusercontent.com/72292872/195619919-6a2ddf2b-c1b1-41a1-94b2-ca90312610e7.png'></a>
 
+</p>
+<hr>
 
-<h2 >Latest Tweets</h2>
-<p align='center'><a href="https://twitter.com/cyberpj1"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=cyberpj1&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
-<hr/>
-
+<p align=center>
 <a href='Memes.md'>Memes for You </a>
+</p>
