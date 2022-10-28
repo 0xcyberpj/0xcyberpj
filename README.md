@@ -8,9 +8,9 @@
 
 ## 📊 Github Stats
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
   
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a>
+<p align=center>   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a>
   </p>
 
 
@@ -86,8 +86,12 @@
 <a href='https://github.com/0xcyberpj/tweet-machine'> <img src='https://user-images.githubusercontent.com/72292872/195619919-6a2ddf2b-c1b1-41a1-94b2-ca90312610e7.png'></a>
 
 </p>
-<hr>
+
 
 <p align=center>
-<a href='Memes.md'>Memes for You </a>
+<a href='https://github.com/0xcyberpj/c0vertX'> <img src='https://user-images.githubusercontent.com/72292872/198630639-5a2a5552-a274-4140-a248-069e52985ecc.png'></a>
+	
+
 </p>
+<hr>
+
