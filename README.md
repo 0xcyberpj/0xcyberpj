@@ -87,9 +87,11 @@
 
 </p>
 
-
+	
 <p align=center>
-<a href='https://github.com/0xcyberpj/c0vertX'> <img src='https://user-images.githubusercontent.com/72292872/198630639-5a2a5552-a274-4140-a248-069e52985ecc.png'></a>
+<a href='https://github.com/0xcyberpj/c0vertX'> <img src='https://user-images.githubusercontent.com/72292872/198637776-a5870957-30a7-4800-b5cf-766b0faab96d.png'></a>	
+	
+
 	
 
 </p>
