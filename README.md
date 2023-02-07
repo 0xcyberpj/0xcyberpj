@@ -3,26 +3,37 @@
 
 <h1 align="center">Hi , I'm Paul Jeremiah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;CTF+Player;CYBERSEC%20|%20%20Enthusiast;@ctftime%20;Always%20learning%20new%20things;%20Get_me_as:cyberpj;%20N00B%20Chall_Creater&center=true&width=500&height=50;color:red;font-style:bold"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;CTF+Player;CYBERSEC%20|%20%20Enthusiast;@ctftime%20;Always%20learning%20new%20things;%20;%20N00B%20Chall_Creater&center=true&width=500&height=50;color:red;font-style:bold"></a>
 </p>
 
 ## 📊 Github Stats
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xcyberpj&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
-  
-<p align=center>   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a>
-  </p>
+    
 
+  <p align=center><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcyberpj&layout=compact&theme=buefy&hide_border=true" /></a></p>
+
+
+<p align=center ><img src="https://streak-stats.demolab.com?user=0xcyberpj&theme=hacker" >
+	</p>
+	
+
+<p>
+	
+	
+	
+	
 
 <h2> About:</h2>
-<b><p style="color:red">
-<p>Learning : PYTHON |  Doing CTF x Playing CTF |
-</p>
-	<b><h3> Blogs  </h3> </b>
-	<a href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp <a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp 
+<b>
+<p>Learning : PYTHON |  Doing CTF x Playing CTF | FrontEnd 
+</p></b>
+	<h2> Blogs : </h2>
+	<a style='margin-top:30px;' href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp
+	<a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp 
 	&nbsp</p>
 </p>
-
+<hr>
 
 ### 💻 Tech Stacks
 
