@@ -26,8 +26,10 @@
 
 <h2> About:</h2>
 <b>
-<p>Learning : PYTHON |  Doing CTF x Playing CTF | FrontEnd 
+<p>[+] Learning : PYTHON |  Doing CTF x Playing CTF | FrontEnd 
 </p></b>
+<p><b>[+] 19y/o Studying Computer Science Student</p></b>
+<p><b>[+] CTF => TamilCTF</p></b>
 	<h2> Blogs : </h2>
 	<a style='margin-top:30px;' href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp
 	<a href="https://hacklido.com/u/cyberpj/"><img src="https://images.opencollective.com/hacklido/d8c52b2/logo/256.png" height=25></a> &nbsp 
