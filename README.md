@@ -28,7 +28,7 @@
 <b>
 <p>[+] Learning : PYTHON |  Doing CTF x Playing CTF | FrontEnd 
 </p></b>
-<p><b>[+] 19y/o Studying Computer Science Student</p></b>
+<p><b>[+] 20y/o CS Guy| CTFer | App Sec!</p></b>
 <p><b>[+] CTF => TamilCTF</p></b>
 	<h2> Blogs : </h2>
 	<a style='margin-top:30px;' href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp
@@ -85,11 +85,9 @@
 
 <h2>Let's Connect> </h2>
 <p align="left">
-  <a href="https://0xcyberpj.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://cyberpj.is-a.dev/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="https://github.com/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/Cyberpj1"><img src="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter" width="30"/></a>
-	
+	<a href="https://linkedin.com/in/0xcyberpj"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 </p>
 
 
