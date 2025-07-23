@@ -26,9 +26,9 @@
 
 <h2> About:</h2>
 <b>
-<p>[+] Learning : PYTHON |  Doing CTF x Playing CTF | FrontEnd 
+<p>[+]  Doing CTF x Playing CTF 
 </p></b>
-<p><b>[+] 20y/o CS Guy| CTFer | App Sec!</p></b>
+<p><b>[+] 21y/o CS Guy| CTFer | App Sec!</p></b>
 <p><b>[+] CTF => TamilCTF</p></b>
 	<h2> Blogs : </h2>
 	<a style='margin-top:30px;' href="https://cyberpj.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> &nbsp
